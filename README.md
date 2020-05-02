@@ -1,4 +1,4 @@
-This is a simple Hangman game, build with Ruby as a practice while working through the https://www.theodinproject.com/ 's curriculum.
+This is a simple tic tac toe game, build with Ruby as a practice while working through the https://www.theodinproject.com/ 's curriculum.
 
 #### Original Assignment
 
